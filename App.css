@@ -1,0 +1,30 @@
+/* Global styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Header styles */
+header {
+text-align: center;
+  padding: 10px;
+}
+
+h1 {
+  margin: 0;
+  color: #000000; 
+}
+
+
+.puppy-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.featured-pup {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
